@@ -23,7 +23,7 @@
   - Dublin / Ireland
   - San Francisco / USA
   - Berlin / Germany
-  - Johannesburg / South Africa
+  - Johannesburg / South Africa\
 you are asked to  Implement a feature to display the current time in different time zones. Allow users to select a timezone from a list and display the current time in that timezone. Utilize libraries to handle timezone conversions.
 - Determine and display the current time at the opposite end of the world. Implement a function that calculates the time difference between the user's current location and the opposite end of the world. Display both times to provide a comparison.
 - Output a random joke from a predefined collection. Create a collection of jokes and implement a function that randomly selects and displays one of the jokes each time it is called.
